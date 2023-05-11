@@ -1,2 +1,2 @@
 # is_increasing
-problem set 2 problem 1
+program to calculate the estimated probability that three dice rolls are increasing
